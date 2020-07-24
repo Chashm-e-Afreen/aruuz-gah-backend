@@ -37,7 +37,7 @@ Aruuz Gah is a web application featuring a modern responsive UI that can analyse
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-You just need the latest [Go distribution](https://golang.org/doc/install) to get this project up and running. All dependencies have been put into the vendor folder. Just clone the project into your %GOPATH/src/ directory and it should be ready to go. You can get the Go on arch(the environment I happen to use) with the following command.
+You just need the latest [Go distribution](https://golang.org/doc/install) to get this project up and running. All dependencies have been put into the vendor folder. Just clone the project into your %GOPATH/src/ directory and it should be ready to go. You can get Go on arch(the environment I happen to use) with the following command.
 
 ```
 Sudo Pacman -S go
