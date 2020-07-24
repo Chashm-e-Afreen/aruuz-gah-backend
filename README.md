@@ -37,7 +37,7 @@ Aruuz Gah is a web application featuring a modern responsive UI that can analyse
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-You just need the latest [Go distribution](https://golang.org/doc/install) to get this project up and running. All dependencies have been put into the vendor folder. Just clone the project into your %GOPATH/src/ directory and it should be ready to go. You can get Go on arch(the environment I happen to use) with the following command.
+You just need the latest [Go distribution](https://golang.org/doc/install) to get this project up and running. All dependencies have been put into the vendor folder. Just clone the project into your %GOPATH/src/ directory and it should be ready to go. You can get Go on Arch (the environment I happen to use) with the following command.
 
 ```
 Sudo Pacman -S go
@@ -60,7 +60,7 @@ And then to run the binary
 The server will start listening at port 3000.
 
 ## 🎈 Usage <a name="usage"></a>
-If you want to locally run the system I'll suggest downloading the [frontend](https://github.com/Chashm-e-Afreen/aruuz-gah-frontend) too. Then you could just run the go binary and head over to the frontend localhost and use the programme like you do online. Using the programme only requires you to enter text in the given textbox and it would generate the appropriate ouptut once you click the button underneath the textarea.
+If you want to locally run the system I'll suggest downloading the [frontend](https://github.com/Chashm-e-Afreen/aruuz-gah-frontend) too. Just run the go binary and head over to the locally hosted frontend and use the programme like you would do online. Using the programme only requires you to enter text in the given textbox and it would generate the appropriate ouptut once you click the button underneath the textarea.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Deploying the project is as easy as building it. You just have to clone the project to $GOPATH/src of the live system and run the binary from that directory.
