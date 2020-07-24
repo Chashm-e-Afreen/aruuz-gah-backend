@@ -75,4 +75,4 @@ Deploying the project is as easy as building it. You just have to clone the proj
 - Find my writings at my [blog](chashm-e-afreen.github.io/)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Folks at UrduWeb for inspiration and encouragememnt
+- Folks at UrduWeb for inspiration and encouragement
