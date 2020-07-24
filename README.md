@@ -15,7 +15,7 @@
 ---
 
 <p align="center"> 
-        An online prosodist for Urdu poetry.
+        An online helper for learners of Urdu prosody.
         <br>
         <a href= "aruuz.rocks/">Aruuz Rocks!</a>
     <br> 
