@@ -31,7 +31,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Aruuz Gah is a web application with a modern UI design that can analyse the meter of Urdu couplets, pinpoint errors and suggest fixes for lines that do not conform to a standard meter. Aruuz refers to the system of scansion for Urdu and Persian poetry. It uses a self-devised binary encoding to represent the stresses of individual letters. The algorithm has been scrupulously crafted paying special attention to the needs and oft-repeated mistakes of beginners in mind.
+Aruuz Gah is a web application with a modern responsive UI that can analyse the meter of Urdu couplets, pinpoint errors and suggest fixes for lines that do not conform to a standard meter. Aruuz refers to the system of scansion for Urdu and Persian poetry. It uses a self-devised binary encoding to represent the stresses of individual letters. The algorithm has been scrupulously crafted paying special attention to the needs and oft-repeated mistakes of beginners in mind.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
