@@ -46,7 +46,7 @@ Sudo Pacman -S go
 ### Installing
 Once the project is in the right directory, you just have to build it.
 
-Let's say we want to generate a binary named aruuz.
+Let's say we want to generate a binary named aruuz. We'll write
 
 ```
 go build -o aruuz
