@@ -72,7 +72,7 @@ Deploying the project is as easy as building it. You just have to clone the proj
 ## ✍️ Authors <a name = "authors"></a>
 - [@Muhammad Rehan Qureshi](https://github.com/Chashm-e-Afreen/) 
 - Poet Prosodist Critic Programmer Electrical Engineering Student at SEECS-NUST
-- Find my writings at my [blog](chashm-e-afreen.github.io/)
+- Find my writings at my [blog](https://chashm-e-afreen.github.io/)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Folks at UrduWeb for inspiration and encouragement
